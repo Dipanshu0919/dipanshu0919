@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=20&center=true&vCenter=true&width=650&height=55&duration=2800&pause=600&color=58A6FF&lines=Hey+there!+Welcome+to+my+GitHub+%F0%9F%91%8B;just+a+dev+vibing+with+python+%F0%9F%90%8D;lowkey+a+frontend+vibe+coder+%F0%9F%8E%A8;every+bug+is+just+a+feature+in+disguise+%F0%9F%90%9B;always+shipping%2C+always+learning+%F0%9F%9A%80;open+to+collab+on+cool+stuff+%F0%9F%A4%9D" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=20&center=true&vCenter=true&width=650&height=55&duration=2800&pause=600&color=58A6FF&lines=Hey+there!+Welcome+to+my+GitHub+%F0%9F%91%8B;Just+a+Dev+Vibing+with+Python+%F0%9F%90%8D;Lowkey+a+Frontend+Vibe+Coder+%F0%9F%8E%A8;Every+Bug+is+Just+a+Feature+in+Disguise+%F0%9F%90%9B;Always+Shipping%2C+Always+Learning+%F0%9F%9A%80;Open+to+Collab+on+Cool+Stuff+%F0%9F%A4%9D" />
 
 <br/>
 
