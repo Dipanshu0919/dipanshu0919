@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0d1f3c,70:1a3a7a,100:0F2655&height=220&section=header&text=Dipanshu%20Ashok%20Agarwal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=⚡%20Backend%20Developer%20%7C%20Python%20%7C%20APIs%20%7C%20Databases&descAlignY=58&descSize=17&animation=fadeIn&stroke=58A6FF&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0d1f3c,70:1a3a7a,100:0F2655&height=220&section=header&text=Dipanshu%20Agarwal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=⚡%20Full%20Stack%20Python%20Dev%20%7C%20APIs%20%7C%20Bots%20%7C%20Databases&descAlignY=58&descSize=17&animation=fadeIn&stroke=58A6FF&strokeWidth=2" />
 
 <br/>
 
@@ -32,15 +32,17 @@
 ```python
 class Dipanshu:
     name        = "Dipanshu Agarwal"
-    role        = "Backend Developer"
-    location    = "India 🇮🇳"
+    role        = "Full Stack Python Developer"
+    location    = "Palghar, Maharashtra, India 🇮🇳"
+    education   = "BSc IT @ St. John College (CGPA: 9.83 📈)"
     languages   = ["Python", "SQL", "Bash"]
-    frameworks  = ["Flask", "FastAPI", "Jinja2"]
+    frameworks  = ["Flask", "Jinja2", "REST API"]
     databases   = ["MySQL", "SQLite", "MongoDB"]
-    cloud       = ["Render"]
-    currently   = "Building scalable backend systems 🚀"
+    also_builds = ["Telegram Bots", "Discord Bots", "Scripts"]
+    cloud       = ["Render", "Linux (Ubuntu)"]
+    currently   = "Building stuff that actually solves problems 🚀"
     learning    = "System Design & DevOps"
-    ask_me      = "Python • REST APIs • Databases"
+    ask_me      = "Python • Bots • REST APIs • Automation"
     fun_fact    = "I debug with print() and I'm not ashamed 😄"
 ```
 
@@ -54,6 +56,17 @@ class Dipanshu:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipanshu0919@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dipanshu0919)
 [![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@Dipanshu0919)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![EcoCamp](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dipanshu0919&repo=EcoCamp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9)](https://github.com/dipanshu0919/EcoCamp)
+[![MailSender](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dipanshu0919&repo=MailSender&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9)](https://github.com/dipanshu0919/MailSender)
 
 </div>
 
@@ -80,6 +93,13 @@ class Dipanshu:
 ---
 
 ## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dipanshu0919&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&rank_icon=github" height="170" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dipanshu0919&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" height="170" />
+
+</div>
 
 <div align="center">
 
@@ -171,9 +191,6 @@ No Activity Tracked This Week
 Python                   7 repos             ███████████████░░░░░░░░░░   58.33 % 
 HTML                     5 repos             ██████████░░░░░░░░░░░░░░░   41.67 % 
 ```
-
-
-
 
  Last Updated on 21/02/2026 12:36:30 UTC
 <!--END_SECTION:waka-->
