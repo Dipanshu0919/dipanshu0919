@@ -69,7 +69,7 @@ class Dipanshu:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,bash,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
 
 **Frameworks & Tools**
 
