@@ -83,13 +83,6 @@ class Dipanshu:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dipanshu0919&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&rank_icon=github" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanshu0919&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" height="170" />
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=dipanshu0919&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=EB5454&background=0D1117&currStreakNum=58A6FF&ring=58A6FF&sideLabels=c9d1d9&currStreakLabel=58A6FF&sideNums=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
 
 </div>
@@ -123,16 +116,6 @@ class Dipanshu:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=dipanshu0919&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
-
-</div>
-
----
-
 ## 🔝 Top Contributed Repos
 
 <div align="center">
@@ -162,6 +145,16 @@ class Dipanshu:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dipanshu0919/Dipanshu0919/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Dipanshu0919/Dipanshu0919/output/github-snake-dark.svg" />
 </picture>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=dipanshu0919&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
 
