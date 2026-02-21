@@ -95,6 +95,70 @@ class Dipanshu:
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 5.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 76 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                100 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+🌆 Daytime                180 commits         ████████░░░░░░░░░░░░░░░░░   32.55 % 
+🌃 Evening                273 commits         ████████████░░░░░░░░░░░░░   49.37 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Tuesday                  36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Wednesday                87 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Thursday                 52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Friday                   143 commits         ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+Saturday                 56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Sunday                   112 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   7 repos             ███████████████░░░░░░░░░░   58.33 % 
+HTML                     5 repos             ██████████░░░░░░░░░░░░░░░   41.67 % 
+```
+
+
+
+
+ Last Updated on 21/02/2026 12:01:45 UTC
 <!--END_SECTION:waka-->
 
 ---
