@@ -13,7 +13,7 @@
     <img src="https://komarev.com/ghpvc/?username=Dipanshu0919&label=Profile+Views&color=0e75b6&style=flat-square" />
   </a>
   <a href="https://github.com/Dipanshu0919?tab=followers">
-    <img src="https://img.shields.io/github/followers/Dipanshu0919?label=Followers&style=flat-square&color=0e75b6" />
+    <img src="https://img.shields.io/github/followers/Dipanshu0919?label=Followers&style=flat-square&color=0e75b6&logo=github" />
   </a>
 </p>
 
