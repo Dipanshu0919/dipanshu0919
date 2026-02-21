@@ -85,13 +85,6 @@ class Dipanshu:
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dipanshu0919&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&rank_icon=github" height="170" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dipanshu0919&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" height="170" />
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=dipanshu0919&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=EB5454&background=0D1117&currStreakNum=58A6FF&ring=58A6FF&sideLabels=c9d1d9&currStreakLabel=58A6FF&sideNums=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
 
 </div>
