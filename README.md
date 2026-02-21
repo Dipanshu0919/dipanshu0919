@@ -92,6 +92,16 @@ class Dipanshu:
 
 ---
 
+## ⏱️ WakaTime Stats
+
+<div align="center">
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dipanshu0919&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&layout=compact)](https://wakatime.com/@Dipanshu0919)
+
+</div>
+
+---
+
 ## 🔝 Top Contributed Repos
 
 <div align="center">
