@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0d1f3c,70:1a3a7a,100:0F2655&height=220&section=header&text=Dipanshu%20Ashok%20Agarwal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=⚡%20Backend%20Developer%20%7C%20Python%20%7C%20APIs%20%7C%20Databases&descAlignY=58&descSize=17&animation=fadeIn&stroke=58A6FF&strokeWidth=2" />
 
+<br/>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=20&center=true&vCenter=true&width=650&height=55&duration=2800&pause=600&color=58A6FF&lines=Hey+there!+Welcome+to+my+GitHub+%F0%9F%91%8B;Just+a+Dev+Vibing+with+Python+%F0%9F%90%8D;Lowkey+a+Frontend+Vibe+Coder+%F0%9F%8E%A8;Every+Bug+is+Just+a+Feature+in+Disguise+%F0%9F%90%9B;Always+Shipping%2C+Always+Learning+%F0%9F%9A%80;Open+to+Collab+on+Cool+Stuff+%F0%9F%A4%9D" />
 
