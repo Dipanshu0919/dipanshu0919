@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=20&center=true&vCenter=true&width=650&height=55&duration=2800&pause=600&color=58A6FF&lines=Hey+there!+Welcome+to+my+GitHub+%F0%9F%91%8B;I+build+backends+that+actually+work+%F0%9F%94%A5;Python+%7C+FastAPI+%7C+Flask+%7C+MongoDB;Always+shipping%2C+always+learning+%F0%9F%9A%80;Open+to+collaborate+on+cool+projects+%F0%9F%A4%9D" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=20&center=true&vCenter=true&width=650&height=55&duration=2800&pause=600&color=58A6FF&lines=Hey+there!+Welcome+to+my+GitHub+%F0%9F%91%8B;just+a+dev+vibing+with+python+%F0%9F%90%8D;lowkey+a+frontend+vibe+coder+%F0%9F%8E%A8;every+bug+is+just+a+feature+in+disguise+%F0%9F%90%9B;always+shipping%2C+always+learning+%F0%9F%9A%80;open+to+collab+on+cool+stuff+%F0%9F%A4%9D" />
 
 <br/>
 
