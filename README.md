@@ -16,19 +16,19 @@
   <a href="https://github.com/Dipanshu0919?tab=followers">
     <img src="https://img.shields.io/github/followers/Dipanshu0919?label=Followers&style=flat-square&color=0e75b6" />
   </a>
-  &nbsp;
-  <a href="https://wakatime.com/@Dipanshu0919">
-    <img src="https://wakatime.com/badge/user/Dipanshu0919.svg?style=flat-square" />
-  </a>
 </p>
 
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+## 🧑‍💻 About Me
 
-### 🧑‍💻 About Me
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+
+</div>
 
 ```python
 class Dipanshu:
@@ -44,8 +44,6 @@ class Dipanshu:
     ask_me      = "Python • REST APIs • Databases"
     fun_fact    = "I debug with print() and I'm not ashamed 😄"
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -93,7 +91,7 @@ class Dipanshu:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dipanshu0919&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=EB5454&background=0D1117&currStreakNum=58A6FF&ring=58A6FF&sideLabels=c9d1d9&currStreakLabel=58A6FF&sideNums=c9d1d9&dates=c9d1d9&stroke=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dipanshu0919&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=EB5454&background=0D1117&currStreakNum=58A6FF&ring=58A6FF&sideLabels=c9d1d9&currStreakLabel=58A6FF&sideNums=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
 
 </div>
 
@@ -122,70 +120,6 @@ class Dipanshu:
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 5.1 kB Used in GitHub's Storage 
- > 
-> 🏆 78 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 10 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                100 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-🌆 Daytime                182 commits         ████████░░░░░░░░░░░░░░░░░   32.79 % 
-🌃 Evening                273 commits         ████████████░░░░░░░░░░░░░   49.19 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Tuesday                  36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Wednesday                87 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Thursday                 52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Friday                   143 commits         ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-Saturday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Sunday                   112 commits         █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   7 repos             ███████████████░░░░░░░░░░   58.33 % 
-HTML                     5 repos             ██████████░░░░░░░░░░░░░░░   41.67 % 
-```
-
-
-
-
- Last Updated on 21/02/2026 12:18:30 UTC
 <!--END_SECTION:waka-->
 
 ---
@@ -194,7 +128,7 @@ HTML                     5 repos             ██████████░�
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dipanshu0919&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-trophies.vercel.app/?username=dipanshu0919&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
 
@@ -214,7 +148,7 @@ HTML                     5 repos             ██████████░�
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dipanshu0919&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=EB5454&area=true&hide_border=true&area_color=1a3a7a" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dipanshu0919&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=EB5454&area=true&hide_border=true" />
 
 </div>
 
