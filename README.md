@@ -92,28 +92,6 @@ class Dipanshu:
 
 ---
 
-## ⏱️ WakaTime Stats
-
-<div align="center">
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dipanshu0919&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&layout=compact)](https://wakatime.com/@Dipanshu0919)
-
-</div>
-
-> 💡 **To enable WakaTime:** Install the [WakaTime plugin](https://wakatime.com/plugins) in your editor, then add your WakaTime username to the badge above.
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=dipanshu0919&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
 ## 🔝 Top Contributed Repos
 
 <div align="center">
