@@ -34,7 +34,7 @@ class Dipanshu:
     name        = "Dipanshu Agarwal"
     role        = "Full Stack Python Developer"
     location    = "Palghar, Maharashtra, India 🇮🇳"
-    education   = "BSc IT @ St. John College (CGPA: 9.83 📈)"
+    education   = "BSc IT @ St. John College Of Humantinity and Sciences"
     languages   = ["Python", "SQL", "Bash"]
     frameworks  = ["Flask", "Jinja2", "REST API"]
     databases   = ["MySQL", "SQLite", "MongoDB"]
