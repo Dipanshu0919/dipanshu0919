@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=20&center=true&vCenter=true&width=650&height=55&duration=2800&pause=900&color=58A6FF&lines=Hey+there!+Welcome+to+my+GitHub+%F0%9F%91%8B;I+build+backends+that+actually+work+%F0%9F%94%A5;Python+%7C+FastAPI+%7C+Flask+%7C+MongoDB;Always+shipping%2C+always+learning+%F0%9F%9A%80;Open+to+collaborate+on+cool+projects+%F0%9F%A4%9D" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=20&center=true&vCenter=true&width=650&height=55&duration=2800&pause=600&color=58A6FF&lines=Hey+there!+Welcome+to+my+GitHub+%F0%9F%91%8B;I+build+backends+that+actually+work+%F0%9F%94%A5;Python+%7C+FastAPI+%7C+Flask+%7C+MongoDB;Always+shipping%2C+always+learning+%F0%9F%9A%80;Open+to+collaborate+on+cool+projects+%F0%9F%A4%9D" />
 
 <br/>
 
@@ -228,6 +228,6 @@ HTML                     5 repos             ██████████░�
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2655,50:1a3a7a,100:030206&height=130&section=footer&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=58A6FF&center=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8D;Drop+a+%E2%AD%90+if+you+like+my+work!;Let%27s+connect+and+build+together!+%F0%9F%A4%9D" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=600&color=58A6FF&center=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8D;Drop+a+%E2%AD%90+if+you+like+my+work!;Let%27s+connect+and+build+together!+%F0%9F%A4%9D" />
 
 </div>
