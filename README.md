@@ -11,9 +11,9 @@ Yo, Welcome to my Github Profile! I am <h3 align="center">
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaKooLit&theme=tokyonight)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dipanshu0919&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=dipanshu0919&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=EB5454&background=45%2C0F2655%2C030206&currStreakNum=EB5454)](https://git.io/streak-stats)
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaKooLit&theme=tokyonight)
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipanshu0919&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dipanshu0919&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
