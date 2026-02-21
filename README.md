@@ -61,17 +61,6 @@ class Dipanshu:
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![EcoCamp](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dipanshu0919&repo=EcoCamp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9)](https://github.com/dipanshu0919/EcoCamp)
-[![MailSender](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dipanshu0919&repo=MailSender&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9)](https://github.com/dipanshu0919/MailSender)
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
