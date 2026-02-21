@@ -25,5 +25,7 @@ Yo, Welcome to my Github Profile! I am <h3 align="center">
 [![](https://visitcount.itsvg.in/api?id=dipanshu0919&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h3 align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg)
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg)
+
 </h3>
