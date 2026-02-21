@@ -73,7 +73,7 @@ class Dipanshu:
 
 **Frameworks & Tools**
 
-<img src="https://skillicons.dev/icons?i=flask,fastapi,git,github,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flask,fastapi,github,linux&theme=dark" />
 
 **Databases & Cloud**
 
