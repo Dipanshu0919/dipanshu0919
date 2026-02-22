@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+    - cron: "0 */3 * * *"  # Runs every 3 hours (UTC)
   workflow_dispatch:      # Allows manual trigger from GitHub Actions tab
 
 jobs:
