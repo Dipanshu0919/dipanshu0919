@@ -116,7 +116,7 @@ class Dipanshu:
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.57%20million%20lines%20of%20code-blue?style=flat)
 
@@ -124,9 +124,9 @@ class Dipanshu:
 
 > 📦 5.2 kB Used in GitHub's Storage 
  > 
-> 🏆 101 Contributions in the Year 2026
+> 🏆 102 Contributions in the Year 2026
  > 
-> 💼 Opted to Hire
+> 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
@@ -159,16 +159,24 @@ Sunday                   112 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   22 mins             ███████████░░░░░░░░░░░░░░   43.33 % 
+HTML                     15 mins             ████████░░░░░░░░░░░░░░░░░   30.18 % 
+jsonc                    9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zed                      29 mins             ███████████████░░░░░░░░░░   58.53 % 
+Unknown Editor           13 mins             ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
+VS Code                  8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+SahyogSutra              40 mins             ████████████████████░░░░░   79.88 % 
+Unknown Project          9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+EcoCamp2                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    50 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -181,7 +189,7 @@ HTML                     5 repos             ██████████░�
 
 
 
- Last Updated on 21/02/2026 16:15:40 UTC
+ Last Updated on 22/02/2026 02:05:44 UTC
 <!--END_SECTION:waka-->
 
 ---
