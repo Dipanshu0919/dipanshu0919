@@ -43,6 +43,14 @@ class Dipanshu:
     currently   = "Building stuff that actually solves problems 🚀"
     learning    = "System Design & DevOps"
     ask_me      = "Python • Bots • REST APIs • Automation"
+    description = """ Hi, I'm Dipanshu Agarwal, currently pursuing my BSc in Information
+    Technology and on a mission to learn and develop through Python.
+    I’m deeply immersed in Python, exploring everything from scripting
+    and automation to advanced level development. Whether it’s building
+    backend systems or experimenting with real world projects, I love
+    using code to solve problems. Let’s connect if you’re into tech,
+    backend development. I’m always open to collaborate, learn, and
+    grow together. """
 ```
 
 ---
