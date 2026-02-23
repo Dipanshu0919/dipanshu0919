@@ -43,7 +43,6 @@ class Dipanshu:
     currently   = "Building stuff that actually solves problems 🚀"
     learning    = "System Design & DevOps"
     ask_me      = "Python • Bots • REST APIs • Automation"
-    fun_fact    = "I debug with print() and I'm not ashamed 😄"
 ```
 
 ---
