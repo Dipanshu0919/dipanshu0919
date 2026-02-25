@@ -104,7 +104,7 @@ class Dipanshu:
 <div align="center">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dipanshu0919&theme=tokyonight" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dipanshu0919&theme=tokyonight&utcOffset=5.5" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dipanshu0919&theme=tokyonight&utcOffset=5.3" />
 
 </div>
 
