@@ -96,13 +96,6 @@ class Dipanshu:
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dipanshu0919&theme=tokyonight" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dipanshu0919&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dipanshu0919&theme=tokyonight" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dipanshu0919&theme=tokyonight&utcOffset=5.3" />
 
