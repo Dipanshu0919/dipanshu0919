@@ -155,18 +155,16 @@ Sunday                   116 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   12 mins             ██████████░░░░░░░░░░░░░░░   40.24 % 
-git ignore               11 mins             █████████░░░░░░░░░░░░░░░░   37.02 % 
-HTML                     7 mins              ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MiniWhatsApp             31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -180,7 +178,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/04/2026 19:00:42 UTC
+ Last Updated on 18/04/2026 21:42:18 UTC
 <!--END_SECTION:waka-->
 
 ---
