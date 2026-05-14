@@ -112,7 +112,7 @@ class Dipanshu:
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.59%20million%20lines%20of%20code-blue?style=flat)
 
@@ -120,11 +120,11 @@ class Dipanshu:
 
 > 📦 5.4 kB Used in GitHub's Storage 
  > 
-> 🏆 170 Contributions in the Year 2026
+> 🏆 171 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
@@ -176,15 +176,15 @@ Linux                    10 hrs 43 mins      ███████████�
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     8 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-Python                   7 repos             ███████████░░░░░░░░░░░░░░   43.75 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+HTML                     9 repos             █████████████░░░░░░░░░░░░   52.94 % 
+Python                   7 repos             ██████████░░░░░░░░░░░░░░░   41.18 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
 
 
- Last Updated on 14/05/2026 03:55:24 UTC
+ Last Updated on 14/05/2026 08:45:32 UTC
 <!--END_SECTION:waka-->
 
 ---
