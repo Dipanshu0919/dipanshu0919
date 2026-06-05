@@ -155,16 +155,16 @@ Sunday                   116 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Gharpati_QrCode          5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -178,7 +178,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 05/06/2026 20:02:21 UTC
+ Last Updated on 05/06/2026 22:19:50 UTC
 <!--END_SECTION:waka-->
 
 ---
