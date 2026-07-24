@@ -112,6 +112,8 @@ class Dipanshu:
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2012%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.09%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -153,17 +155,22 @@ Sunday                   115 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 22 mins             █████████████████████████   99.50 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Markdown                 22 mins             ████████████████░░░░░░░░░   62.96 % 
+JavaScript               9 mins              ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+HTML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+VS Code                  22 mins             ████████████████░░░░░░░░░   63.28 % 
+Zed                      13 mins             █████████░░░░░░░░░░░░░░░░   36.72 % 
 
 🐱‍💻 Projects: 
-linux-learning           22 mins             █████████████████████████   100.00 % 
+linux-learning           22 mins             ████████████████░░░░░░░░░   63.28 % 
+Unknown Project          13 mins             █████████░░░░░░░░░░░░░░░░   36.72 % 
 
 💻 Operating System: 
-Linux                    22 mins             █████████████████████████   100.00 % 
+Linux                    35 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -178,7 +185,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:37:41 UTC
+ Last Updated on 24/07/2026 22:10:18 UTC
 <!--END_SECTION:waka-->
 
 ---
