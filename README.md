@@ -112,7 +112,7 @@ class Dipanshu:
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2021%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.09%20million%20lines%20of%20code-blue?style=flat)
 
@@ -155,22 +155,23 @@ Sunday                   115 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 22 mins             ████████████████░░░░░░░░░   62.96 % 
-JavaScript               9 mins              ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-HTML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Markdown                 22 mins             ████████████░░░░░░░░░░░░░   49.94 % 
+JavaScript               9 mins              █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+CSS                      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+HTML                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 🔥 Editors: 
-VS Code                  22 mins             ████████████████░░░░░░░░░   63.28 % 
-Zed                      13 mins             █████████░░░░░░░░░░░░░░░░   36.72 % 
+VS Code                  22 mins             █████████████░░░░░░░░░░░░   50.19 % 
+Zed                      22 mins             ████████████░░░░░░░░░░░░░   49.81 % 
 
 🐱‍💻 Projects: 
-linux-learning           22 mins             ████████████████░░░░░░░░░   63.28 % 
-Unknown Project          13 mins             █████████░░░░░░░░░░░░░░░░   36.72 % 
+linux-learning           22 mins             █████████████░░░░░░░░░░░░   50.19 % 
+Unknown Project          13 mins             ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+institue                 9 mins              █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
 
 💻 Operating System: 
-Linux                    35 mins             █████████████████████████   100.00 % 
+Linux                    44 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -185,7 +186,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:16:40 UTC
+ Last Updated on 25/07/2026 22:00:24 UTC
 <!--END_SECTION:waka-->
 
 ---
