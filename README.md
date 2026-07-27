@@ -112,7 +112,9 @@ class Dipanshu:
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2020%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2031%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.09%20million%20lines%20of%20code-blue?style=flat)
 
@@ -174,6 +176,29 @@ institue                 9 mins              █████░░░░░░�
 Linux                    44 mins             █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 9 mins (20.2%)
+
+✍️ 628 lines written by AI, 167 lines written by hand (78.99% AI-written)
+
+🔤 171,246 Input Tokens, 4,720 Output Tokens
+
+💵 $0.58 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 4 AI Prompts
+
+Nemotron                 628 lines           █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 78.99% of written lines came from AI
+📚 Verbose Prompter — average 14,044 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 32.76% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -186,7 +211,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 14:48:28 UTC
+ Last Updated on 27/07/2026 17:02:33 UTC
 <!--END_SECTION:waka-->
 
 ---
