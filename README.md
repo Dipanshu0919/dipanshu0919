@@ -112,9 +112,9 @@ class Dipanshu:
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.09%20million%20lines%20of%20code-blue?style=flat)
 
@@ -157,36 +157,38 @@ Sunday                   115 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSS                      36 mins             █████████░░░░░░░░░░░░░░░░   37.46 % 
-JavaScript               19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-Python                   19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-HTML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+CSS                      37 mins             █████████░░░░░░░░░░░░░░░░   35.72 % 
+JavaScript               19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Python                   19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+Markdown                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+HTML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
 
 🔥 Editors: 
-Zed                      51 mins             █████████████░░░░░░░░░░░░   52.09 % 
-Copilot CLI              47 mins             ████████████░░░░░░░░░░░░░   47.91 % 
+Zed                      51 mins             ████████████░░░░░░░░░░░░░   48.19 % 
+Copilot CLI              48 mins             ███████████░░░░░░░░░░░░░░   45.38 % 
+VS Code                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 
 🐱‍💻 Projects: 
-institue                 1 hr 25 mins        ██████████████████████░░░   86.68 % 
-Unknown Project          13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+institue                 1 hr 26 mins        ████████████████████░░░░░   81.25 % 
+Unknown Project          13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+linux-learning           6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 
 💻 Operating System: 
-Linux                    1 hr 38 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 3 mins (64.57%)
+⏱ AI Coding Time: 1 hr 4 mins (60.8%)
 
 ✍️ 877 lines written by AI, 166 lines written by hand (84.08% AI-written)
 
-🔤 224,381 Input Tokens, 27,510 Output Tokens
+🔤 224,381 Input Tokens, 27,919 Output Tokens
 
 💵 $1.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 16 AI Prompts
+🧠 7 AI Sessions, 17 AI Prompts
 
 Nemotron                 628 lines           █████████████████░░░░░░░░   67.97 % 
 GPT                      296 lines           ████████░░░░░░░░░░░░░░░░░   32.03 % 
@@ -195,9 +197,9 @@ Github-Copilot-Cli       0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 84.08% of written lines came from AI
-📚 Verbose Prompter — average 3,580 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 24.76% of changed lines were hand-edited
+📚 Verbose Prompter — average 3,370 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 24.82% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -212,7 +214,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 19:25:13 UTC
+ Last Updated on 29/07/2026 22:05:03 UTC
 <!--END_SECTION:waka-->
 
 ---
