@@ -112,9 +112,9 @@ class Dipanshu:
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2053%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.09%20million%20lines%20of%20code-blue?style=flat)
 
@@ -157,38 +157,37 @@ Sunday                   115 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSS                      47 mins             ██████████░░░░░░░░░░░░░░░   40.91 % 
-JavaScript               19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Python                   19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-HTML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+CSS                      47 mins             ██████████░░░░░░░░░░░░░░░   39.02 % 
+Python                   25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+HTML                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+JavaScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
 
 🔥 Editors: 
-Copilot CLI              55 mins             ████████████░░░░░░░░░░░░░   47.96 % 
-Zed                      53 mins             ████████████░░░░░░░░░░░░░   46.16 % 
-VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Zed                      58 mins             ████████████░░░░░░░░░░░░░   48.41 % 
+Copilot CLI              55 mins             ███████████░░░░░░░░░░░░░░   45.96 % 
+VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 
 🐱‍💻 Projects: 
-institue                 1 hr 36 mins        █████████████████████░░░░   82.85 % 
-Unknown Project          13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-linux-learning           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+institue                 1 hr 54 mins        ████████████████████████░   94.36 % 
+linux-learning           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 
 💻 Operating System: 
-Linux                    1 hr 56 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 14 mins (63.83%)
+⏱ AI Coding Time: 1 hr 31 mins (75.81%)
 
-✍️ 900 lines written by AI, 166 lines written by hand (84.43% AI-written)
+✍️ 900 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 296,914 Input Tokens, 32,565 Output Tokens
+🔤 393,161 Input Tokens, 32,565 Output Tokens
 
-💵 $1.22 Estimated AI Cost This Week
+💵 $1.51 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 23 AI Prompts
+🧠 13 AI Sessions, 25 AI Prompts
 
 Nemotron                 628 lines           █████████████████░░░░░░░░   66.31 % 
 GPT                      319 lines           ████████░░░░░░░░░░░░░░░░░   33.69 % 
@@ -196,10 +195,10 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.43% of written lines came from AI
-📚 Verbose Prompter — average 2,875 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 4,683 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 24.36% of changed lines were hand-edited
+🚀 High AI Trust — 0.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -214,7 +213,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 19:42:41 UTC
+ Last Updated on 31/07/2026 22:10:08 UTC
 <!--END_SECTION:waka-->
 
 ---
