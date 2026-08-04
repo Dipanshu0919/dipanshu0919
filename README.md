@@ -112,7 +112,7 @@ class Dipanshu:
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2053%20mins-blue?style=flat)
 
@@ -157,48 +157,47 @@ Sunday                   115 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSS                      42 mins             █████████░░░░░░░░░░░░░░░░   37.48 % 
-Python                   23 mins             █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-HTML                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-JavaScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+HTML                     12 mins             ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+CSS                      12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
+JavaScript               9 mins              █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+Markdown                 6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Python                   6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
 
 🔥 Editors: 
-Copilot CLI              57 mins             █████████████░░░░░░░░░░░░   50.46 % 
-Zed                      49 mins             ███████████░░░░░░░░░░░░░░   43.53 % 
-VS Code                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Zed                      20 mins             ███████████░░░░░░░░░░░░░░   43.28 % 
+VS Code                  18 mins             ██████████░░░░░░░░░░░░░░░   38.67 % 
+Copilot CLI              8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
 
 🐱‍💻 Projects: 
-institue                 1 hr 46 mins        ███████████████████████░░   93.99 % 
-linux-learning           6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+institue                 40 mins             █████████████████████░░░░   85.71 % 
+linux-learning           6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 
 💻 Operating System: 
-Linux                    1 hr 53 mins        █████████████████████████   100.00 % 
+Linux                    47 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 24 mins (74.39%)
+⏱ AI Coding Time: 28 mins (59.69%)
 
-✍️ 273 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 23 lines written by AI, 5 lines written by hand (82.14% AI-written)
 
-🔤 492,511 Input Tokens, 28,661 Output Tokens
+🔤 168,780 Input Tokens, 5,055 Output Tokens
 
-💵 $1.41 Estimated AI Cost This Week
+💵 $0.51 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 22 AI Prompts
+🧠 7 AI Sessions, 9 AI Prompts
 
-GPT                      320 lines           █████████████████████████   100.00 % 
+GPT                      23 lines            █████████████████████████   100.00 % 
 Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,770 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.31% of changed lines were hand-edited
+🤖 AI-Driven — 82.14% of written lines came from AI
+📚 Verbose Prompter — average 6,644 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 93.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -212,7 +211,7 @@ JavaScript               3 repos             ████░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 19:43:55 UTC
+ Last Updated on 04/08/2026 22:17:54 UTC
 <!--END_SECTION:waka-->
 
 ---
