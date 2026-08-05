@@ -157,37 +157,36 @@ Sunday                   115 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     12 mins             ███████░░░░░░░░░░░░░░░░░░   26.54 % 
-CSS                      12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
-JavaScript               9 mins              █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Markdown                 6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Python                   6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+HTML                     12 mins             ████████░░░░░░░░░░░░░░░░░   31.85 % 
+CSS                      10 mins             ███████░░░░░░░░░░░░░░░░░░   27.41 % 
+JavaScript               9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+Python                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+git ignore               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-Zed                      20 mins             ███████████░░░░░░░░░░░░░░   43.28 % 
-VS Code                  18 mins             ██████████░░░░░░░░░░░░░░░   38.67 % 
-Copilot CLI              8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Zed                      20 mins             █████████████░░░░░░░░░░░░   51.93 % 
+VS Code                  11 mins             ███████░░░░░░░░░░░░░░░░░░   29.26 % 
+Copilot CLI              7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
 
 🐱‍💻 Projects: 
-institue                 40 mins             █████████████████████░░░░   85.71 % 
-linux-learning           6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+institue                 39 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    47 mins             █████████████████████████   100.00 % 
+Linux                    39 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 mins (59.69%)
+⏱ AI Coding Time: 27 mins (68.78%)
 
 ✍️ 23 lines written by AI, 5 lines written by hand (82.14% AI-written)
 
-🔤 168,780 Input Tokens, 5,055 Output Tokens
+🔤 168,780 Input Tokens, 4,646 Output Tokens
 
-💵 $0.51 Estimated AI Cost This Week
+💵 $0.50 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 9 AI Prompts
+🧠 6 AI Sessions, 8 AI Prompts
 
 GPT                      23 lines            █████████████████████████   100.00 % 
 Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -195,9 +194,9 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 82.14% of written lines came from AI
-📚 Verbose Prompter — average 6,644 characters per prompt
+📚 Verbose Prompter — average 7,472 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 93.09% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 93.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -211,7 +210,7 @@ JavaScript               3 repos             ████░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 19:43:24 UTC
+ Last Updated on 05/08/2026 22:15:44 UTC
 <!--END_SECTION:waka-->
 
 ---
