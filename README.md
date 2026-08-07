@@ -112,10 +112,6 @@ class Dipanshu:
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2024%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2053%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.09%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -130,75 +126,6 @@ class Dipanshu:
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                111 commits         █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-🌆 Daytime                230 commits         ██████████░░░░░░░░░░░░░░░   38.08 % 
-🌃 Evening                263 commits         ███████████░░░░░░░░░░░░░░   43.54 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Tuesday                  39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-Wednesday                103 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Thursday                 21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Friday                   128 commits         █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-Saturday                 121 commits         █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Sunday                   115 commits         █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-HTML                     12 mins             ████████░░░░░░░░░░░░░░░░░   31.85 % 
-CSS                      10 mins             ███████░░░░░░░░░░░░░░░░░░   27.41 % 
-JavaScript               9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-Python                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-git ignore               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-
-🔥 Editors: 
-Zed                      20 mins             █████████████░░░░░░░░░░░░   51.93 % 
-VS Code                  11 mins             ███████░░░░░░░░░░░░░░░░░░   29.26 % 
-Copilot CLI              7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-
-🐱‍💻 Projects: 
-institue                 39 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    39 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 27 mins (68.78%)
-
-✍️ 23 lines written by AI, 5 lines written by hand (82.14% AI-written)
-
-🔤 168,780 Input Tokens, 4,646 Output Tokens
-
-💵 $0.50 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 8 AI Prompts
-
-GPT                      23 lines            █████████████████████████   100.00 % 
-Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 82.14% of written lines came from AI
-📚 Verbose Prompter — average 7,472 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 93.07% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -210,7 +137,7 @@ JavaScript               3 repos             ████░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 14:25:09 UTC
+ Last Updated on 07/08/2026 00:07:21 UTC
 <!--END_SECTION:waka-->
 
 ---
