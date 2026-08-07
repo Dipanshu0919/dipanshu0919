@@ -157,43 +157,24 @@ Sunday                   115 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     12 mins             ███████████░░░░░░░░░░░░░░   42.07 % 
-JavaScript               9 mins              ████████░░░░░░░░░░░░░░░░░   32.13 % 
-Python                   6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+JavaScript               9 mins              █████████████████████░░░░   82.15 % 
+CSS                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+HTML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 
 🔥 Editors: 
-Zed                      18 mins             ███████████████░░░░░░░░░░   60.89 % 
-VS Code                  11 mins             ██████████░░░░░░░░░░░░░░░   39.11 % 
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-institue                 29 mins             █████████████████████████   100.00 % 
+institue                 11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    29 mins             █████████████████████████   100.00 % 
+Linux                    11 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (59.56%)
-
-✍️ 0 lines written by AI, 5 lines written by hand (0.0% AI-written)
-
-🔤 96,247 Input Tokens, 0 Output Tokens
-
-💵 $0.29 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 2 AI Prompts
-
-Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 25,472 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -207,7 +188,7 @@ JavaScript               3 repos             ████░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 19:04:47 UTC
+ Last Updated on 07/08/2026 21:44:58 UTC
 <!--END_SECTION:waka-->
 
 ---
