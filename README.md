@@ -112,9 +112,9 @@ class Dipanshu:
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%209%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.09%20million%20lines%20of%20code-blue?style=flat)
 
@@ -157,24 +157,41 @@ Sunday                   115 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               9 mins              █████████████████████░░░░   82.15 % 
-CSS                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-HTML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+HTML                     24 mins             ████████████████░░░░░░░░░   65.09 % 
+JavaScript               11 mins             ████████░░░░░░░░░░░░░░░░░   31.34 % 
+CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+VS Code                  36 mins             ████████████████████████░   97.55 % 
+Zed                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 
 🐱‍💻 Projects: 
-institue                 11 mins             █████████████████████████   100.00 % 
+institue                 37 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    11 mins             █████████████████████████   100.00 % 
+Linux                    37 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 15 mins (41.11%)
+
+✍️ 0 lines written by AI, 34 lines written by hand (0.0% AI-written)
+
+🔤 118,437 Input Tokens, 0 Output Tokens
+
+💵 $0.36 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 2 AI Prompts
+
+Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 3,606 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -188,7 +205,7 @@ JavaScript               3 repos             ████░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 18:45:29 UTC
+ Last Updated on 08/08/2026 21:35:32 UTC
 <!--END_SECTION:waka-->
 
 ---
