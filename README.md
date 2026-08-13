@@ -112,7 +112,7 @@ class Dipanshu:
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%2011%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2028%20mins-blue?style=flat)
 
@@ -157,33 +157,34 @@ Sunday                   115 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     1 hr 4 mins         ████████████████░░░░░░░░░   65.96 % 
-Python                   16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Git Config               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+HTML                     1 hr 4 mins         ██████████████░░░░░░░░░░░   57.98 % 
+Python                   16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Git Config               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🔥 Editors: 
-VS Code                  1 hr 18 mins        ████████████████████░░░░░   80.20 % 
-Antigravity IDE          18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+VS Code                  1 hr 31 mins        █████████████████████░░░░   82.60 % 
+Antigravity IDE          18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🐱‍💻 Projects: 
-payment_gateway          51 mins             █████████████░░░░░░░░░░░░   52.61 % 
-institue                 27 mins             ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-dipanshu_portfolio       18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-dipanshu                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+payment_gateway          51 mins             ████████████░░░░░░░░░░░░░   46.25 % 
+institue                 27 mins             ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+dipanshu_portfolio       18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+thetrailtales            13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+dipanshu                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 Operating System: 
-Linux                    1 hr 37 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 50 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 mins (36.39%)
+⏱ AI Coding Time: 35 mins (31.98%)
 
-✍️ 18 lines written by AI, 54 lines written by hand (25.0% AI-written)
+✍️ 18 lines written by AI, 2,323 lines written by hand (0.77% AI-written)
 
 🔤 151,739 Input Tokens, 200 Output Tokens
 
@@ -195,10 +196,10 @@ Opus                     103 lines           ███████████�
 Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 25.0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.77% of written lines came from AI
 📚 Verbose Prompter — average 1,912 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 40.46% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 95.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -212,7 +213,7 @@ JavaScript               3 repos             ████░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 19:09:01 UTC
+ Last Updated on 13/08/2026 21:52:32 UTC
 <!--END_SECTION:waka-->
 
 ---
