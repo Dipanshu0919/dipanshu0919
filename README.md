@@ -157,49 +157,46 @@ Sunday                   115 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     1 hr 4 mins         ██████████████░░░░░░░░░░░   57.98 % 
-Python                   16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Git Config               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+HTML                     39 mins             ████████████░░░░░░░░░░░░░   47.06 % 
+Python                   16 mins             █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Git Config               13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 🔥 Editors: 
-VS Code                  1 hr 31 mins        █████████████████████░░░░   82.60 % 
-Antigravity IDE          18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+VS Code                  1 hr 5 mins         ████████████████████░░░░░   78.05 % 
+Antigravity IDE          18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
 
 🐱‍💻 Projects: 
-payment_gateway          51 mins             ████████████░░░░░░░░░░░░░   46.25 % 
-institue                 27 mins             ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
-dipanshu_portfolio       18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-thetrailtales            13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-dipanshu                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+payment_gateway          51 mins             ███████████████░░░░░░░░░░   61.29 % 
+dipanshu_portfolio       18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+thetrailtales            13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+dipanshu                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 💻 Operating System: 
-Linux                    1 hr 50 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 mins (31.98%)
+⏱ AI Coding Time: 18 mins (22.68%)
 
-✍️ 18 lines written by AI, 2,323 lines written by hand (0.77% AI-written)
+✍️ 18 lines written by AI, 2,294 lines written by hand (0.78% AI-written)
 
-🔤 151,739 Input Tokens, 200 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.46 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 6 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
 Opus                     103 lines           █████████████████████████   100.00 % 
-Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.77% of written lines came from AI
-📚 Verbose Prompter — average 1,912 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 95.78% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.78% of written lines came from AI
+📝 Concise Prompter — average 72 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 95.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -213,7 +210,7 @@ JavaScript               3 repos             ████░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 18:36:54 UTC
+ Last Updated on 15/08/2026 21:26:21 UTC
 <!--END_SECTION:waka-->
 
 ---
