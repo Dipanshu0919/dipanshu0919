@@ -112,9 +112,9 @@ class Dipanshu:
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2029%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.10%20million%20lines%20of%20code-blue?style=flat)
 
@@ -157,46 +157,49 @@ Sunday                   115 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     39 mins             ████████████░░░░░░░░░░░░░   47.06 % 
-Python                   16 mins             █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-Git Config               13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Markdown                 8 hrs 25 mins       ██████████████░░░░░░░░░░░   55.12 % 
+HTML                     3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Python                   2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+CSS                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+TypeScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 🔥 Editors: 
-VS Code                  1 hr 5 mins         ████████████████████░░░░░   78.05 % 
-Antigravity IDE          18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+Antigravity IDE          13 hrs 56 mins      ███████████████████████░░   91.24 % 
+VS Code                  1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
 
 🐱‍💻 Projects: 
-payment_gateway          51 mins             ███████████████░░░░░░░░░░   61.29 % 
-dipanshu_portfolio       18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-thetrailtales            13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-dipanshu                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+flask_app                11 hrs 25 mins      ███████████████████░░░░░░   74.79 % 
+Unknown Project          2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+payment_gateway          51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+thetrailtales            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+dipanshu_portfolio       18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 23 mins        █████████████████████████   100.00 % 
+Linux                    15 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 mins (22.68%)
+⏱ AI Coding Time: 14 hrs (91.73%)
 
-✍️ 18 lines written by AI, 2,294 lines written by hand (0.78% AI-written)
+✍️ 6,500 lines written by AI, 2,358 lines written by hand (73.38% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 6 AI Sessions, 225 AI Prompts
 
-Opus                     103 lines           █████████████████████████   100.00 % 
+Sonnet                   4,303 lines         ███████████████░░░░░░░░░░   61.29 % 
+Gemini                   2,615 lines         █████████░░░░░░░░░░░░░░░░   37.25 % 
+Opus                     103 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.78% of written lines came from AI
-📝 Concise Prompter — average 72 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 95.72% of changed lines were hand-edited
+🤖 AI-Driven — 73.38% of written lines came from AI
+📝 Concise Prompter — average 146 characters per prompt
+🔁 Iterative Prompter — average 38 prompts per session
+🚀 High AI Trust — 25.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -210,7 +213,7 @@ JavaScript               3 repos             ████░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 18:45:54 UTC
+ Last Updated on 18/08/2026 21:29:41 UTC
 <!--END_SECTION:waka-->
 
 ---
