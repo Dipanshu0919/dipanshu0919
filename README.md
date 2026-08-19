@@ -157,49 +157,46 @@ Sunday                   115 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 8 hrs 25 mins       ██████████████░░░░░░░░░░░   55.12 % 
-HTML                     3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-Python                   2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-CSS                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-TypeScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Markdown                 8 hrs 25 mins       ███████████████░░░░░░░░░░   59.65 % 
+HTML                     2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Python                   2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+CSS                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+TypeScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🔥 Editors: 
-Antigravity IDE          13 hrs 56 mins      ███████████████████████░░   91.24 % 
-VS Code                  1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Antigravity IDE          13 hrs 37 mins      ████████████████████████░   96.57 % 
+VS Code                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🐱‍💻 Projects: 
-flask_app                11 hrs 25 mins      ███████████████████░░░░░░   74.79 % 
-Unknown Project          2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-payment_gateway          51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-thetrailtales            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-dipanshu_portfolio       18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+flask_app                11 hrs 25 mins      ████████████████████░░░░░   80.93 % 
+Unknown Project          2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+thetrailtales            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 💻 Operating System: 
-Linux                    15 hrs 16 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs (91.73%)
+⏱ AI Coding Time: 13 hrs 42 mins (97.1%)
 
-✍️ 6,500 lines written by AI, 2,358 lines written by hand (73.38% AI-written)
+✍️ 6,482 lines written by AI, 2,333 lines written by hand (73.53% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 225 AI Prompts
+🧠 5 AI Sessions, 223 AI Prompts
 
-Sonnet                   4,303 lines         ███████████████░░░░░░░░░░   61.29 % 
-Gemini                   2,615 lines         █████████░░░░░░░░░░░░░░░░   37.25 % 
-Opus                     103 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Sonnet                   4,303 lines         ████████████████░░░░░░░░░   62.20 % 
+Gemini                   2,615 lines         █████████░░░░░░░░░░░░░░░░   37.80 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 73.38% of written lines came from AI
+🤖 AI-Driven — 73.53% of written lines came from AI
 📝 Concise Prompter — average 146 characters per prompt
-🔁 Iterative Prompter — average 38 prompts per session
-🚀 High AI Trust — 25.23% of changed lines were hand-edited
+🔁 Iterative Prompter — average 45 prompts per session
+🚀 High AI Trust — 25.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -213,7 +210,7 @@ JavaScript               3 repos             ████░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 18:42:00 UTC
+ Last Updated on 19/08/2026 21:30:21 UTC
 <!--END_SECTION:waka-->
 
 ---
