@@ -112,9 +112,9 @@ class Dipanshu:
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2046%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.10%20million%20lines%20of%20code-blue?style=flat)
 
@@ -157,46 +157,50 @@ Sunday                   115 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 8 hrs 24 mins       ████████████████░░░░░░░░░   65.33 % 
-HTML                     2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Python                   1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-JavaScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-CSS                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Markdown                 8 hrs 24 mins       ██████████████░░░░░░░░░░░   57.36 % 
+HTML                     3 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+Python                   1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+JavaScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+CSS                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-Antigravity IDE          11 hrs 46 mins      ███████████████████████░░   91.54 % 
-VS Code                  1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Antigravity IDE          11 hrs 46 mins      ████████████████████░░░░░   80.37 % 
+VS Code                  1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Codex Vscode             57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 
 🐱‍💻 Projects: 
-flask_app                9 hrs 39 mins       ███████████████████░░░░░░   75.05 % 
-Unknown Project          2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-institue                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+flask_app                9 hrs 39 mins       ████████████████░░░░░░░░░   65.89 % 
+Unknown Project          2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+agrotourism              1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+institue                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
 
 💻 Operating System: 
-Linux                    12 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 51 mins (92.12%)
+⏱ AI Coding Time: 13 hrs 8 mins (89.61%)
 
-✍️ 6,222 lines written by AI, 308 lines written by hand (95.28% AI-written)
+✍️ 6,597 lines written by AI, 358 lines written by hand (94.85% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 652,644 Input Tokens, 112,936 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $18.39 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 202 AI Prompts
+🧠 6 AI Sessions, 212 AI Prompts
 
-Sonnet                   4,300 lines         ████████████████░░░░░░░░░   64.62 % 
-Gemini                   2,354 lines         █████████░░░░░░░░░░░░░░░░   35.38 % 
+Sonnet                   4,300 lines         ███████████████░░░░░░░░░░   61.15 % 
+Gemini                   2,354 lines         ████████░░░░░░░░░░░░░░░░░   33.48 % 
+GPT                      378 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.28% of written lines came from AI
-📝 Concise Prompter — average 154 characters per prompt
-🔁 Iterative Prompter — average 50 prompts per session
-🚀 High AI Trust — 5.47% of changed lines were hand-edited
+🤖 AI-Driven — 94.85% of written lines came from AI
+📝 Concise Prompter — average 174 characters per prompt
+🔁 Iterative Prompter — average 35 prompts per session
+🚀 High AI Trust — 5.89% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -210,7 +214,7 @@ JavaScript               3 repos             ████░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 18:44:09 UTC
+ Last Updated on 21/08/2026 21:29:40 UTC
 <!--END_SECTION:waka-->
 
 ---
