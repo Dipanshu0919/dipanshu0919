@@ -157,36 +157,35 @@ Sunday                   115 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     4 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   34.55 % 
-JavaScript               2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-CSS                      1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Other                    1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Markdown                 1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+HTML                     4 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   33.37 % 
+JavaScript               2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+CSS                      1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Other                    1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Markdown                 1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
 
 🔥 Editors: 
-Antigravity IDE          4 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   34.93 % 
-Antigravity Desktop      2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-VS Code                  2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Copilot CLI              2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Codex Vscode             1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Antigravity IDE          4 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   37.62 % 
+Antigravity Desktop      2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+Copilot CLI              2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+VS Code                  1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Codex Vscode             1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
 
 🐱‍💻 Projects: 
-agrotourism              6 hrs 53 mins       █████████████░░░░░░░░░░░░   50.28 % 
-flask_app                4 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.31 % 
-jewelleryeg              1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-institue                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+agrotourism              6 hrs 53 mins       ██████████████░░░░░░░░░░░   54.15 % 
+flask_app                4 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.73 % 
+jewelleryeg              1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Linux                    13 hrs 42 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 39 mins (85.04%)
+⏱ AI Coding Time: 11 hrs 39 mins (91.6%)
 
-✍️ 2,069 lines written by AI, 372 lines written by hand (84.76% AI-written)
+✍️ 2,069 lines written by AI, 128 lines written by hand (94.17% AI-written)
 
 🔤 995,939 Input Tokens, 222,054 Output Tokens
 
@@ -200,10 +199,10 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.76% of written lines came from AI
+🤖 AI-Driven — 94.17% of written lines came from AI
 📚 Verbose Prompter — average 1,782 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 27.84% of changed lines were hand-edited
+🚀 High AI Trust — 20.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -217,7 +216,7 @@ JavaScript               4 repos             █████░░░░░░�
 
 
 
- Last Updated on 27/08/2026 14:00:39 UTC
+ Last Updated on 28/08/2026 00:19:44 UTC
 <!--END_SECTION:waka-->
 
 ---
