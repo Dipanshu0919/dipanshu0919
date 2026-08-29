@@ -157,51 +157,49 @@ Sunday                   115 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     2 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.41 % 
-JavaScript               2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-CSS                      1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Other                    1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Markdown                 1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+HTML                     2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+JavaScript               1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+CSS                      1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+Other                    1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Python                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 
 🔥 Editors: 
-Antigravity IDE          4 hrs 47 mins       ███████████░░░░░░░░░░░░░░   43.91 % 
-Antigravity Desktop      2 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   26.02 % 
-Copilot CLI              2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-VS Code                  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Codex Vscode             27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Antigravity IDE          3 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   36.31 % 
+Antigravity Desktop      2 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   33.17 % 
+Copilot CLI              2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+VS Code                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 
 🐱‍💻 Projects: 
-agrotourism              5 hrs 4 mins        ████████████░░░░░░░░░░░░░   46.57 % 
-flask_app                4 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   39.37 % 
-jewelleryeg              1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+agrotourism              4 hrs 15 mins       ████████████░░░░░░░░░░░░░   49.77 % 
+flask_app                2 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   32.43 % 
+jewelleryeg              1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
 
 💻 Operating System: 
-Linux                    10 hrs 54 mins      █████████████████████████   100.00 % 
+Linux                    8 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 22 mins (95.17%)
+⏱ AI Coding Time: 8 hrs 5 mins (94.62%)
 
-✍️ 1,694 lines written by AI, 78 lines written by hand (95.6% AI-written)
+✍️ 1,147 lines written by AI, 77 lines written by hand (93.71% AI-written)
 
-🔤 340,413 Input Tokens, 108,891 Output Tokens
+🔤 24,731 Input Tokens, 71,051 Output Tokens
 
-💵 $2.82 Estimated AI Cost This Week
+💵 $0.19 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 127 AI Prompts
+🧠 9 AI Sessions, 87 AI Prompts
 
-Sonnet                   1,282 lines         ███████████████░░░░░░░░░░   59.57 % 
-GPT                      870 lines           ██████████░░░░░░░░░░░░░░░   40.43 % 
+Sonnet                   836 lines           ██████████████░░░░░░░░░░░   57.66 % 
+GPT                      614 lines           ███████████░░░░░░░░░░░░░░   42.34 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.6% of written lines came from AI
-📚 Verbose Prompter — average 1,889 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 21.8% of changed lines were hand-edited
+🤖 AI-Driven — 93.71% of written lines came from AI
+📚 Verbose Prompter — average 2,669 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 29.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -215,7 +213,7 @@ JavaScript               4 repos             █████░░░░░░�
 
 
 
- Last Updated on 29/08/2026 20:46:23 UTC
+ Last Updated on 29/08/2026 23:10:22 UTC
 <!--END_SECTION:waka-->
 
 ---
