@@ -157,52 +157,51 @@ Sunday                   115 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     4 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   33.37 % 
-JavaScript               2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-CSS                      1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Other                    1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Markdown                 1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+HTML                     2 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+JavaScript               2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+CSS                      1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Other                    1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Markdown                 1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
 
 🔥 Editors: 
-Antigravity IDE          4 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   37.62 % 
-Antigravity Desktop      2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-Copilot CLI              2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-VS Code                  1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Codex Vscode             1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Antigravity IDE          4 hrs 47 mins       ███████████░░░░░░░░░░░░░░   43.91 % 
+Antigravity Desktop      2 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   26.02 % 
+Copilot CLI              2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+VS Code                  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Codex Vscode             27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 🐱‍💻 Projects: 
-agrotourism              6 hrs 53 mins       ██████████████░░░░░░░░░░░   54.15 % 
-flask_app                4 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.73 % 
-jewelleryeg              1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+agrotourism              5 hrs 4 mins        ████████████░░░░░░░░░░░░░   46.57 % 
+flask_app                4 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   39.37 % 
+jewelleryeg              1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Linux                    12 hrs 43 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 39 mins (91.6%)
+⏱ AI Coding Time: 10 hrs 22 mins (95.17%)
 
-✍️ 2,069 lines written by AI, 128 lines written by hand (94.17% AI-written)
+✍️ 1,694 lines written by AI, 78 lines written by hand (95.6% AI-written)
 
-🔤 995,939 Input Tokens, 222,054 Output Tokens
+🔤 340,413 Input Tokens, 108,891 Output Tokens
 
-💵 $19.33 Estimated AI Cost This Week
+💵 $2.82 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 138 AI Prompts
+🧠 12 AI Sessions, 127 AI Prompts
 
-Sonnet                   1,282 lines         █████████████░░░░░░░░░░░░   50.67 % 
-GPT                      1,248 lines         ████████████░░░░░░░░░░░░░   49.33 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   1,282 lines         ███████████████░░░░░░░░░░   59.57 % 
+GPT                      870 lines           ██████████░░░░░░░░░░░░░░░   40.43 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.17% of written lines came from AI
-📚 Verbose Prompter — average 1,782 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 20.57% of changed lines were hand-edited
+🤖 AI-Driven — 95.6% of written lines came from AI
+📚 Verbose Prompter — average 1,889 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 21.8% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -216,7 +215,7 @@ JavaScript               4 repos             █████░░░░░░�
 
 
 
- Last Updated on 28/08/2026 15:12:04 UTC
+ Last Updated on 29/08/2026 01:37:12 UTC
 <!--END_SECTION:waka-->
 
 ---
