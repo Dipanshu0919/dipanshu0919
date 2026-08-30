@@ -157,49 +157,46 @@ Sunday                   115 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-JavaScript               1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-CSS                      1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-Other                    1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Python                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+JavaScript               1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   33.15 % 
+Other                    1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+CSS                      1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+HTML                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Apache Config            12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   36.31 % 
-Antigravity Desktop      2 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   33.17 % 
-Copilot CLI              2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-VS Code                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Antigravity Desktop      2 hrs 50 mins       █████████████░░░░░░░░░░░░   52.07 % 
+Copilot CLI              2 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   38.35 % 
+VS Code                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
 
 🐱‍💻 Projects: 
-agrotourism              4 hrs 15 mins       ████████████░░░░░░░░░░░░░   49.77 % 
-flask_app                2 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   32.43 % 
-jewelleryeg              1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+agrotourism              3 hrs 55 mins       ██████████████████░░░░░░░   72.05 % 
+jewelleryeg              1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   27.95 % 
 
 💻 Operating System: 
-Linux                    8 hrs 33 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 5 mins (94.62%)
+⏱ AI Coding Time: 4 hrs 59 mins (91.55%)
 
-✍️ 1,147 lines written by AI, 77 lines written by hand (93.71% AI-written)
+✍️ 545 lines written by AI, 77 lines written by hand (87.62% AI-written)
 
 🔤 24,731 Input Tokens, 71,051 Output Tokens
 
 💵 $0.19 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 87 AI Prompts
+🧠 8 AI Sessions, 44 AI Prompts
 
-Sonnet                   836 lines           ██████████████░░░░░░░░░░░   57.66 % 
-GPT                      614 lines           ███████████░░░░░░░░░░░░░░   42.34 % 
+GPT                      614 lines           █████████████████████████   100.00 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.71% of written lines came from AI
-📚 Verbose Prompter — average 2,669 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 29.23% of changed lines were hand-edited
+🤖 AI-Driven — 87.62% of written lines came from AI
+📚 Verbose Prompter — average 5,051 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 49.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -213,7 +210,7 @@ JavaScript               4 repos             █████░░░░░░�
 
 
 
- Last Updated on 30/08/2026 20:51:11 UTC
+ Last Updated on 30/08/2026 23:20:02 UTC
 <!--END_SECTION:waka-->
 
 ---
