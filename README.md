@@ -112,7 +112,7 @@ class Dipanshu:
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2015%20mins-blue?style=flat)
 
@@ -157,47 +157,51 @@ Sunday                   115 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 31 mins        █████████████░░░░░░░░░░░░   52.05 % 
-CSS                      47 mins             ███████░░░░░░░░░░░░░░░░░░   27.16 % 
-HTML                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+HTML                     6 hrs 12 mins       ████████████████░░░░░░░░░   65.98 % 
+Other                    1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+CSS                      1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🔥 Editors: 
-Antigravity Desktop      1 hr 31 mins        █████████████░░░░░░░░░░░░   52.05 % 
-Copilot CLI              1 hr 10 mins        ██████████░░░░░░░░░░░░░░░   40.41 % 
-VS Code                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Antigravity Desktop      5 hrs 17 mins       ██████████████░░░░░░░░░░░   56.29 % 
+Antigravity IDE          2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   29.23 % 
+Copilot CLI              1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 🐱‍💻 Projects: 
-jewelleryeg              1 hr 31 mins        █████████████░░░░░░░░░░░░   52.05 % 
-agrotourism              1 hr 24 mins        ████████████░░░░░░░░░░░░░   47.95 % 
+agrotourism              5 hrs 24 mins       ██████████████░░░░░░░░░░░   57.38 % 
+flask_app                2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
+jewelleryeg              1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+institue                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 💻 Operating System: 
-Linux                    2 hrs 55 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 47 mins (95.46%)
+⏱ AI Coding Time: 9 hrs 10 mins (97.46%)
 
-✍️ 606 lines written by AI, 311 lines written by hand (66.09% AI-written)
+✍️ 2,009 lines written by AI, 320 lines written by hand (86.26% AI-written)
 
-🔤 24,731 Input Tokens, 76,904 Output Tokens
+🔤 136,783 Input Tokens, 68,412 Output Tokens
 
-💵 $1.08 Estimated AI Cost This Week
+💵 $9.88 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 29 AI Prompts
+🧠 9 AI Sessions, 105 AI Prompts
 
-Code                     477 lines           ████████████████████░░░░░   78.45 % 
-GPT                      131 lines           █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+Gemini                   1,821 lines         ████████████████████░░░░░   78.87 % 
+Code                     483 lines           █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+GPT                      5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 66.09% of written lines came from AI
-📚 Verbose Prompter — average 3,634 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 33.84% of changed lines were hand-edited
+🤖 AI-Driven — 86.26% of written lines came from AI
+📚 Verbose Prompter — average 1,844 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 12.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -211,7 +215,7 @@ JavaScript               4 repos             █████░░░░░░�
 
 
 
- Last Updated on 01/09/2026 18:17:37 UTC
+ Last Updated on 01/09/2026 23:12:12 UTC
 <!--END_SECTION:waka-->
 
 ---
