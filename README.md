@@ -112,7 +112,7 @@ class Dipanshu:
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2016%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2015%20mins-blue?style=flat)
 
@@ -157,51 +157,49 @@ Sunday                   115 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     6 hrs 12 mins       ████████████████░░░░░░░░░   65.98 % 
-Other                    1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-CSS                      1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+HTML                     6 hrs 16 mins       ███████████████████░░░░░░   76.54 % 
+CSS                      1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-Antigravity Desktop      5 hrs 17 mins       ██████████████░░░░░░░░░░░   56.29 % 
-Antigravity IDE          2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-Copilot CLI              1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Antigravity Desktop      3 hrs 37 mins       ███████████░░░░░░░░░░░░░░   44.17 % 
+Antigravity IDE          2 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   33.54 % 
+VS Code                  1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Copilot CLI              45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
 
 🐱‍💻 Projects: 
-agrotourism              5 hrs 24 mins       ██████████████░░░░░░░░░░░   57.38 % 
-flask_app                2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
-jewelleryeg              1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-institue                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+agrotourism              4 hrs 52 mins       ███████████████░░░░░░░░░░   59.45 % 
+flask_app                2 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+institue                 56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
 
 💻 Operating System: 
-Linux                    9 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 10 mins (97.46%)
+⏱ AI Coding Time: 7 hrs 13 mins (87.99%)
 
-✍️ 2,009 lines written by AI, 320 lines written by hand (86.26% AI-written)
+✍️ 2,004 lines written by AI, 905 lines written by hand (68.89% AI-written)
 
-🔤 136,783 Input Tokens, 68,412 Output Tokens
+🔤 112,052 Input Tokens, 67,338 Output Tokens
 
-💵 $9.88 Estimated AI Cost This Week
+💵 $9.81 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 105 AI Prompts
+🧠 5 AI Sessions, 96 AI Prompts
 
-Gemini                   1,821 lines         ████████████████████░░░░░   78.87 % 
-Code                     483 lines           █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-GPT                      5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Gemini                   1,821 lines         ████████████████████░░░░░   79.04 % 
+Code                     483 lines           █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.26% of written lines came from AI
-📚 Verbose Prompter — average 1,844 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 12.64% of changed lines were hand-edited
+🤖 AI-Driven — 68.89% of written lines came from AI
+📚 Verbose Prompter — average 1,750 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🚀 High AI Trust — 33.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -215,7 +213,7 @@ JavaScript               4 repos             █████░░░░░░�
 
 
 
- Last Updated on 02/09/2026 20:51:50 UTC
+ Last Updated on 02/09/2026 23:11:50 UTC
 <!--END_SECTION:waka-->
 
 ---
