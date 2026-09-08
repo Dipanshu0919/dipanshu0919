@@ -112,9 +112,9 @@ class Dipanshu:
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2042%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.17%20million%20lines%20of%20code-blue?style=flat)
 
@@ -157,41 +157,42 @@ Sunday                   148 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     32 mins             ███████░░░░░░░░░░░░░░░░░░   29.40 % 
-Python                   28 mins             ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-CSS                      22 mins             █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-CSV                      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-JavaScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+HTML                     1 hr 48 mins        █████████████░░░░░░░░░░░░   52.12 % 
+Python                   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+CSS                      22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Text                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+CSV                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 
 🔥 Editors: 
-VS Code                  1 hr 27 mins        ████████████████████░░░░░   78.47 % 
-Antigravity Desktop      23 mins             █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Antigravity Desktop      1 hr 53 mins        ██████████████░░░░░░░░░░░   54.67 % 
+VS Code                  1 hr 34 mins        ███████████░░░░░░░░░░░░░░   45.33 % 
 
 🐱‍💻 Projects: 
-institue                 1 hr 6 mins         ███████████████░░░░░░░░░░   59.36 % 
-jaitraders               45 mins             ██████████░░░░░░░░░░░░░░░   40.64 % 
+rmcplant                 1 hr 42 mins        ████████████░░░░░░░░░░░░░   49.32 % 
+institue                 1 hr                ███████░░░░░░░░░░░░░░░░░░   28.93 % 
+jaitraders               45 mins             █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
 
 💻 Operating System: 
-Linux                    1 hr 51 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 mins (40.06%)
+⏱ AI Coding Time: 2 hrs 27 mins (70.76%)
 
-✍️ 0 lines written by AI, 596 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 585 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 12 AI Prompts
+🧠 2 AI Sessions, 33 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 135 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
+📄 Detailed Prompter — average 640 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -206,7 +207,7 @@ JavaScript               4 repos             █████░░░░░░�
 
 
 
- Last Updated on 08/09/2026 20:59:11 UTC
+ Last Updated on 08/09/2026 23:19:38 UTC
 <!--END_SECTION:waka-->
 
 ---
