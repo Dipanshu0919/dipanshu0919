@@ -112,9 +112,9 @@ class Dipanshu:
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2040%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.17%20million%20lines%20of%20code-blue?style=flat)
 
@@ -157,43 +157,50 @@ Sunday                   148 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     1 hr 48 mins        █████████████░░░░░░░░░░░░   52.12 % 
-Python                   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-CSS                      22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Text                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-CSV                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+CSS                      9 hrs 13 mins       █████████████░░░░░░░░░░░░   51.70 % 
+HTML                     4 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+Python                   2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Nginx                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-Antigravity Desktop      1 hr 53 mins        ██████████████░░░░░░░░░░░   54.67 % 
-VS Code                  1 hr 34 mins        ███████████░░░░░░░░░░░░░░   45.33 % 
+Antigravity Desktop      13 hrs 31 mins      ███████████████████░░░░░░   75.82 % 
+Antigravity IDE          2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+VS Code                  1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Zed                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🐱‍💻 Projects: 
-rmcplant                 1 hr 42 mins        ████████████░░░░░░░░░░░░░   49.32 % 
-institue                 1 hr                ███████░░░░░░░░░░░░░░░░░░   28.93 % 
-jaitraders               45 mins             █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+SahyogSutra              7 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   39.87 % 
+jaitraders               3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+dipanshu_portfolio       2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+rmcplant                 2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+flask_app                2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
 
 💻 Operating System: 
-Linux                    3 hrs 27 mins       █████████████████████████   100.00 % 
+Linux                    17 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 27 mins (70.76%)
+⏱ AI Coding Time: 17 hrs 30 mins (98.12%)
 
-✍️ 0 lines written by AI, 585 lines written by hand (0.0% AI-written)
+✍️ 235 lines written by AI, 11 lines written by hand (95.53% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 33 AI Prompts
+🧠 10 AI Sessions, 183 AI Prompts
+
+Gemini                   412 lines           █████████████████████████   98.56 % 
+Sonnet                   6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 640 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 95.53% of written lines came from AI
+📄 Detailed Prompter — average 653 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 18.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -207,7 +214,7 @@ JavaScript               4 repos             █████░░░░░░�
 
 
 
- Last Updated on 09/09/2026 20:46:58 UTC
+ Last Updated on 09/09/2026 23:06:41 UTC
 <!--END_SECTION:waka-->
 
 ---
