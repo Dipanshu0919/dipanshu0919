@@ -157,31 +157,30 @@ Sunday                   148 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     3 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   34.98 % 
-Python                   2 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   29.64 % 
-JavaScript               1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Other                    1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Bash                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+HTML                     3 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   37.80 % 
+Python                   2 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   26.96 % 
+JavaScript               1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Other                    1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Bash                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 
 🔥 Editors: 
-Antigravity Desktop      7 hrs 24 mins       ██████████████████░░░░░░░   73.19 % 
-VS Code                  2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.28 % 
-Zed                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Antigravity Desktop      7 hrs               ███████████████████░░░░░░   74.82 % 
+VS Code                  2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+Zed                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🐱‍💻 Projects: 
-dipanshu_portfolio       6 hrs 1 min         ███████████████░░░░░░░░░░   59.50 % 
-rmcplant                 2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
-jaitraders               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-institue                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+dipanshu_portfolio       6 hrs 1 min         ████████████████░░░░░░░░░   64.29 % 
+rmcplant                 2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+institue                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
 
 💻 Operating System: 
-Linux                    10 hrs 7 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 50 mins (97.24%)
+⏱ AI Coding Time: 9 hrs 5 mins (97.13%)
 
 ✍️ 0 lines written by AI, 832 lines written by hand (0.0% AI-written)
 
@@ -189,12 +188,12 @@ Linux                    10 hrs 7 mins       ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 138 AI Prompts
+🧠 8 AI Sessions, 126 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 542 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
+📄 Detailed Prompter — average 581 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -210,7 +209,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 19:47:29 UTC
+ Last Updated on 14/09/2026 23:47:08 UTC
 <!--END_SECTION:waka-->
 
 ---
