@@ -157,42 +157,36 @@ Sunday                   148 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   35.31 % 
-JavaScript               54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
-Bash                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-HTML                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Other                    27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Other                    27 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Antigravity Desktop      3 hrs 3 mins        ██████████████████░░░░░░░   73.51 % 
-VS Code                  1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+Antigravity Desktop      27 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dipanshu_portfolio       3 hrs 42 mins       ██████████████████████░░░   89.10 % 
-rmcplant                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+rmcplant                 27 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 9 mins        █████████████████████████   100.00 % 
+Linux                    27 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 58 mins (95.61%)
+⏱ AI Coding Time: 27 mins (100.0%)
 
-✍️ 0 lines written by AI, 821 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 58 AI Prompts
+🧠 3 AI Sessions, 8 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 546 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 2,611 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -207,7 +201,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 21:10:33 UTC
+ Last Updated on 18/09/2026 04:08:36 UTC
 <!--END_SECTION:waka-->
 
 ---
