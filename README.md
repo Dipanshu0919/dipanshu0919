@@ -157,36 +157,47 @@ Sunday                   148 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    27 mins             █████████████████████████   100.00 % 
+HTML                     1 hr 49 mins        █████████████░░░░░░░░░░░░   51.82 % 
+PHP                      45 mins             █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Text                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+XML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 🔥 Editors: 
-Antigravity Desktop      27 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 27 mins       █████████████████░░░░░░░░   69.91 % 
+Antigravity Desktop      1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   30.09 % 
 
 🐱‍💻 Projects: 
-rmcplant                 27 mins             █████████████████████████   100.00 % 
+photography              1 hr 24 mins        ██████████░░░░░░░░░░░░░░░   39.97 % 
+institue                 1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+smartechsolutions.in     1 hr                ███████░░░░░░░░░░░░░░░░░░   28.58 % 
+dipanshu_portfolio       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+rmcplant                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 💻 Operating System: 
-Linux                    27 mins             █████████████████████████   100.00 % 
+Linux                    3 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 20 mins (95.23%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 165 lines written by hand (0.0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 394,685 Input Tokens, 1,290 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $1.20 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 8 AI Prompts
+🧠 5 AI Sessions, 54 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 2,611 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 5,378 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -201,7 +212,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 20:43:04 UTC
+ Last Updated on 18/09/2026 23:09:17 UTC
 <!--END_SECTION:waka-->
 
 ---
