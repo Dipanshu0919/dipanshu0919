@@ -157,17 +157,22 @@ Sunday                   148 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-PHP                      28 mins             ██████████████░░░░░░░░░░░   54.80 % 
-Text                     23 mins             ███████████░░░░░░░░░░░░░░   45.20 % 
+Text                     56 mins             ████████████░░░░░░░░░░░░░   49.47 % 
+PHP                      28 mins             ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+Image (svg)              16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Python                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 🔥 Editors: 
-VS Code                  51 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 54 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-smartechsolutions.in     51 mins             █████████████████████████   100.00 % 
+smartechsolutions.in     51 mins             ███████████░░░░░░░░░░░░░░   45.15 % 
+ShellMan                 43 mins             █████████░░░░░░░░░░░░░░░░   37.55 % 
+littleangelsschoolapp    19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
 
 💻 Operating System: 
-Linux                    51 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 54 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -188,7 +193,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2026 21:55:54 UTC
+ Last Updated on 06/10/2026 05:49:54 UTC
 <!--END_SECTION:waka-->
 
 ---
