@@ -157,28 +157,49 @@ Sunday                   148 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Text                     56 mins             ████████████░░░░░░░░░░░░░   49.47 % 
-PHP                      28 mins             ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-Image (svg)              16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Python                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+HTML                     9 hrs 8 mins        ██████████████░░░░░░░░░░░   55.35 % 
+Python                   2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+CSS                      2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Image (svg)              57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🔥 Editors: 
-VS Code                  1 hr 54 mins        █████████████████████████   100.00 % 
+Antigravity IDE          13 hrs 29 mins      ████████████████████░░░░░   81.58 % 
+Antigravity Desktop      1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+VS Code                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Zed                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🐱‍💻 Projects: 
-smartechsolutions.in     51 mins             ███████████░░░░░░░░░░░░░░   45.15 % 
-ShellMan                 43 mins             █████████░░░░░░░░░░░░░░░░   37.55 % 
-littleangelsschoolapp    19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+thetrailtales            10 hrs 31 mins      ████████████████░░░░░░░░░   63.62 % 
+flask_app                3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+ShellMan                 1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+littleangelsschoolapp    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Unknown Project          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 💻 Operating System: 
-Linux                    1 hr 54 mins        █████████████████████████   100.00 % 
+Linux                    16 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 15 hrs 23 mins (93.06%)
+
+✍️ 14,715 lines written by AI, 11 lines written by hand (99.93% AI-written)
+
+🔤 41,863,109 Input Tokens, 2,069,518 Output Tokens
+
+💵 $68.01 Estimated AI Cost This Week
+
+🧠 9 AI Sessions, 140 AI Prompts
+
+Gemini                   16,372 lines        █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.93% of written lines came from AI
+📝 Concise Prompter — average 397 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 0.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -193,7 +214,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 21:25:49 UTC
+ Last Updated on 11/10/2026 05:10:03 UTC
 <!--END_SECTION:waka-->
 
 ---
