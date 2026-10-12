@@ -157,49 +157,49 @@ Sunday                   148 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     9 hrs 8 mins        ██████████████░░░░░░░░░░░   55.35 % 
-Python                   2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-CSS                      2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Image (svg)              57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+HTML                     8 hrs 46 mins       █████████████░░░░░░░░░░░░   51.96 % 
+Python                   2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+CSS                      2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Image (svg)              57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 🔥 Editors: 
-Antigravity IDE          13 hrs 29 mins      ████████████████████░░░░░   81.58 % 
-Antigravity Desktop      1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-VS Code                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-Zed                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Antigravity IDE          13 hrs 51 mins      ████████████████████░░░░░   81.98 % 
+Antigravity Desktop      1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+VS Code                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Zed                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 🐱‍💻 Projects: 
-thetrailtales            10 hrs 31 mins      ████████████████░░░░░░░░░   63.62 % 
-flask_app                3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-ShellMan                 1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-littleangelsschoolapp    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-Unknown Project          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+thetrailtales            11 hrs 36 mins      █████████████████░░░░░░░░   68.71 % 
+flask_app                2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+ShellMan                 1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+littleangelsschoolapp    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Unknown Project          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 💻 Operating System: 
-Linux                    16 hrs 31 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 23 mins (93.06%)
+⏱ AI Coding Time: 15 hrs 43 mins (93.03%)
 
-✍️ 14,715 lines written by AI, 11 lines written by hand (99.93% AI-written)
+✍️ 16,209 lines written by AI, 27 lines written by hand (99.83% AI-written)
 
-🔤 41,863,109 Input Tokens, 2,069,518 Output Tokens
+🔤 28,133,174 Input Tokens, 2,083,773 Output Tokens
 
-💵 $68.01 Estimated AI Cost This Week
+💵 $67.86 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 140 AI Prompts
+🧠 8 AI Sessions, 135 AI Prompts
 
-Gemini                   16,372 lines        █████████████████████████   100.00 % 
+Gemini                   18,588 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📝 Concise Prompter — average 397 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 0.4% of changed lines were hand-edited
+🤖 AI-Driven — 99.83% of written lines came from AI
+📝 Concise Prompter — average 429 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 0.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -214,7 +214,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 19:26:27 UTC
+ Last Updated on 12/10/2026 00:22:47 UTC
 <!--END_SECTION:waka-->
 
 ---
