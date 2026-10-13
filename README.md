@@ -112,9 +112,9 @@ class Dipanshu:
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2011%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.21%20million%20lines%20of%20code-blue?style=flat)
 
@@ -157,49 +157,49 @@ Sunday                   148 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     8 hrs 11 mins       ███████████████░░░░░░░░░░   60.54 % 
-CSS                      2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Python                   1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+HTML                     7 hrs 17 mins       █████████████░░░░░░░░░░░░   51.26 % 
+CSS                      2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Python                   1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+PHP                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 🔥 Editors: 
-Antigravity IDE          12 hrs 22 mins      ███████████████████████░░   91.47 % 
-Zed                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-Antigravity Desktop      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Antigravity IDE          11 hrs 6 mins       ████████████████████░░░░░   78.03 % 
+Antigravity Desktop      1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+VS Code                  59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Zed                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 
 🐱‍💻 Projects: 
-thetrailtales            10 hrs 31 mins      ███████████████████░░░░░░   77.83 % 
-flask_app                1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Unknown Project          35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-kptiles                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-institue                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+thetrailtales            9 hrs 26 mins       █████████████████░░░░░░░░   66.40 % 
+flask_app                1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+smartechsolutions.in     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+kptiles                  1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Unknown Project          35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 
 💻 Operating System: 
-Linux                    13 hrs 31 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 49 mins (94.86%)
+⏱ AI Coding Time: 13 hrs 18 mins (93.55%)
 
-✍️ 12,182 lines written by AI, 24 lines written by hand (99.8% AI-written)
+✍️ 8,521 lines written by AI, 28 lines written by hand (99.67% AI-written)
 
-🔤 19,663,220 Input Tokens, 1,664,732 Output Tokens
+🔤 16,581,028 Input Tokens, 1,442,226 Output Tokens
 
-💵 $58.57 Estimated AI Cost This Week
+💵 $49.73 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 103 AI Prompts
+🧠 7 AI Sessions, 123 AI Prompts
 
-Gemini                   14,286 lines        █████████████████████████   100.00 % 
+Gemini                   10,335 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📝 Concise Prompter — average 426 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 0.84% of changed lines were hand-edited
+🤖 AI-Driven — 99.67% of written lines came from AI
+📝 Concise Prompter — average 411 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 1.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -214,7 +214,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 16:50:25 UTC
+ Last Updated on 13/10/2026 22:29:50 UTC
 <!--END_SECTION:waka-->
 
 ---
