@@ -157,49 +157,49 @@ Sunday                   148 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     7 hrs 17 mins       █████████████░░░░░░░░░░░░   51.26 % 
-CSS                      2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Python                   1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-PHP                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+HTML                     6 hrs 12 mins       ███████████░░░░░░░░░░░░░░   42.50 % 
+PHP                      3 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+CSS                      1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Python                   1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 🔥 Editors: 
-Antigravity IDE          11 hrs 6 mins       ████████████████████░░░░░   78.03 % 
-Antigravity Desktop      1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-VS Code                  59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Zed                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Antigravity IDE          9 hrs 11 mins       ████████████████░░░░░░░░░   62.89 % 
+Antigravity Desktop      3 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+VS Code                  1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Zed                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 
 🐱‍💻 Projects: 
-thetrailtales            9 hrs 26 mins       █████████████████░░░░░░░░   66.40 % 
-flask_app                1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-smartechsolutions.in     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-kptiles                  1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Unknown Project          35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+thetrailtales            7 hrs 56 mins       ██████████████░░░░░░░░░░░   54.27 % 
+smartechsolutions.in     3 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
+flask_app                1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+kptiles                  1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Unknown Project          35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 💻 Operating System: 
-Linux                    14 hrs 13 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 18 mins (93.55%)
+⏱ AI Coding Time: 13 hrs 24 mins (91.71%)
 
-✍️ 8,521 lines written by AI, 28 lines written by hand (99.67% AI-written)
+✍️ 8,022 lines written by AI, 29 lines written by hand (99.64% AI-written)
 
-🔤 16,581,028 Input Tokens, 1,442,226 Output Tokens
+🔤 13,699,767 Input Tokens, 1,210,735 Output Tokens
 
-💵 $49.73 Estimated AI Cost This Week
+💵 $41.19 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 123 AI Prompts
+🧠 7 AI Sessions, 124 AI Prompts
 
-Gemini                   10,335 lines        █████████████████████████   100.00 % 
+Gemini                   9,653 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.67% of written lines came from AI
-📝 Concise Prompter — average 411 characters per prompt
+🤖 AI-Driven — 99.64% of written lines came from AI
+📝 Concise Prompter — average 385 characters per prompt
 🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 1.62% of changed lines were hand-edited
+🚀 High AI Trust — 1.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -214,7 +214,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 21:28:58 UTC
+ Last Updated on 15/10/2026 04:05:51 UTC
 <!--END_SECTION:waka-->
 
 ---
