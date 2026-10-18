@@ -157,49 +157,49 @@ Sunday                   148 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     3 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   36.36 % 
-PHP                      3 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.62 % 
-Python                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-CSS                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-JavaScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+PHP                      3 hrs 12 mins       ████████████░░░░░░░░░░░░░   48.57 % 
+HTML                     1 hr 46 mins        ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+JavaScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Python                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🔥 Editors: 
-Antigravity Desktop      4 hrs 3 mins        ███████████░░░░░░░░░░░░░░   42.57 % 
-Antigravity IDE          3 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   32.07 % 
-VS Code                  2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-Zed                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Antigravity Desktop      4 hrs 3 mins        ███████████████░░░░░░░░░░   61.50 % 
+VS Code                  2 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   35.77 % 
+Zed                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Antigravity IDE          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🐱‍💻 Projects: 
-smartechsolutions.in     3 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   37.70 % 
-thetrailtales            2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   29.91 % 
-kptiles                  1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-institue                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-flask_app                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+smartechsolutions.in     3 hrs 35 mins       ██████████████░░░░░░░░░░░   54.45 % 
+kptiles                  2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.55 % 
+institue                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+thetrailtales            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 💻 Operating System: 
-Linux                    9 hrs 32 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 19 mins (87.18%)
+⏱ AI Coding Time: 5 hrs 17 mins (80.07%)
 
-✍️ 2,801 lines written by AI, 98 lines written by hand (96.62% AI-written)
+✍️ 123 lines written by AI, 139 lines written by hand (46.95% AI-written)
 
-🔤 6,015,093 Input Tokens, 548,701 Output Tokens
+🔤 504,804 Input Tokens, 108,456 Output Tokens
 
-💵 $18.19 Estimated AI Cost This Week
+💵 $2.31 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 92 AI Prompts
+🧠 7 AI Sessions, 69 AI Prompts
 
-Gemini                   3,722 lines         █████████████████████████   100.00 % 
+Gemini                   123 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.62% of written lines came from AI
-📝 Concise Prompter — average 362 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 6.81% of changed lines were hand-edited
+⚖️ Balanced with AI — 46.95% of written lines came from AI
+📝 Concise Prompter — average 455 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🔍 Hands-On Reviewer — 67.55% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -214,7 +214,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 20:24:16 UTC
+ Last Updated on 18/10/2026 22:55:25 UTC
 <!--END_SECTION:waka-->
 
 ---
