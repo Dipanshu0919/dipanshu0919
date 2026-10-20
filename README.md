@@ -157,49 +157,50 @@ Sunday                   148 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-PHP                      3 hrs 12 mins       ████████████░░░░░░░░░░░░░   48.57 % 
-HTML                     1 hr 46 mins        ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-JavaScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Python                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Python                   3 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.99 % 
+PHP                      3 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+HTML                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Other                    1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+JavaScript               1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
 
 🔥 Editors: 
-Antigravity Desktop      4 hrs 3 mins        ███████████████░░░░░░░░░░   61.50 % 
-VS Code                  2 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   35.77 % 
-Zed                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Antigravity IDE          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Antigravity Desktop      6 hrs 42 mins       ██████████████░░░░░░░░░░░   56.77 % 
+VS Code                  4 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   38.83 % 
+Antigravity              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+OpenCode                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Antigravity IDE          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🐱‍💻 Projects: 
-smartechsolutions.in     3 hrs 35 mins       ██████████████░░░░░░░░░░░   54.45 % 
-kptiles                  2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.55 % 
-institue                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-thetrailtales            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+ShellMan                 5 hrs 55 mins       █████████████░░░░░░░░░░░░   50.24 % 
+smartechsolutions.in     3 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   30.49 % 
+kptiles                  1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+institue                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+thetrailtales            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Linux                    6 hrs 36 mins       █████████████████████████   100.00 % 
+Linux                    11 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 17 mins (80.07%)
+⏱ AI Coding Time: 10 hrs 31 mins (89.09%)
 
-✍️ 123 lines written by AI, 139 lines written by hand (46.95% AI-written)
+✍️ 0 lines written by AI, 130 lines written by hand (0.0% AI-written)
 
-🔤 504,804 Input Tokens, 108,456 Output Tokens
+🔤 326,591 Input Tokens, 93,126 Output Tokens
 
-💵 $2.31 Estimated AI Cost This Week
+💵 $1.77 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 69 AI Prompts
+🧠 9 AI Sessions, 140 AI Prompts
 
-Gemini                   123 lines           █████████████████████████   100.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.95% of written lines came from AI
-📝 Concise Prompter — average 455 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 67.55% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 842 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -214,7 +215,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 20:29:23 UTC
+ Last Updated on 20/10/2026 00:11:28 UTC
 <!--END_SECTION:waka-->
 
 ---
