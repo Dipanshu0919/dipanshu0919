@@ -157,47 +157,46 @@ Sunday                   148 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   28.04 % 
-JavaScript               4 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-HTML                     3 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-Markdown                 1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Other                    1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Python                   5 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.13 % 
+JavaScript               4 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.84 % 
+HTML                     3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Markdown                 1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Other                    1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
 
 🔥 Editors: 
-Antigravity Desktop      7 hrs 41 mins       ████████████░░░░░░░░░░░░░   48.71 % 
-VS Code                  7 hrs 34 mins       ████████████░░░░░░░░░░░░░   48.01 % 
-Antigravity              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-OpenCode                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Antigravity IDE          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+VS Code                  9 hrs 13 mins       █████████████░░░░░░░░░░░░   53.31 % 
+Antigravity Desktop      7 hrs 34 mins       ███████████░░░░░░░░░░░░░░   43.70 % 
+Antigravity              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+OpenCode                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Antigravity IDE          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🐱‍💻 Projects: 
-ShellMan                 15 hrs 34 mins      █████████████████████████   98.61 % 
-institue                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-thetrailtales            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+ShellMan                 17 hrs 15 mins      █████████████████████████   99.68 % 
+thetrailtales            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Linux                    15 hrs 47 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 6 mins (89.36%)
+⏱ AI Coding Time: 14 hrs 42 mins (84.89%)
 
-✍️ 0 lines written by AI, 1,852 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,337 lines written by hand (0.0% AI-written)
 
 🔤 18,614 Input Tokens, 1,416 Output Tokens
 
 💵 $0.05 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 199 AI Prompts
+🧠 7 AI Sessions, 233 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,147 characters per prompt
-🔁 Iterative Prompter — average 28 prompts per session
+📄 Detailed Prompter — average 1,064 characters per prompt
+🔁 Iterative Prompter — average 33 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -213,7 +212,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 20:32:02 UTC
+ Last Updated on 24/10/2026 23:02:29 UTC
 <!--END_SECTION:waka-->
 
 ---
