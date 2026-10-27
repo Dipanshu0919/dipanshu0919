@@ -157,46 +157,42 @@ Sunday                   154 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               5 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   28.51 % 
-Python                   5 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   27.64 % 
-HTML                     4 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
-Markdown                 1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Other                    1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+JavaScript               5 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   30.94 % 
+HTML                     4 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Python                   3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+CSS                      2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Markdown                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 48 mins      ██████████████░░░░░░░░░░░   56.55 % 
-Antigravity Desktop      8 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   41.12 % 
-Antigravity              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-OpenCode                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-Antigravity IDE          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+VS Code                  12 hrs 43 mins      █████████████████░░░░░░░░   67.54 % 
+Antigravity Desktop      6 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   32.46 % 
 
 🐱‍💻 Projects: 
-ShellMan                 20 hrs 51 mins      █████████████████████████   99.89 % 
-thetrailtales            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+ShellMan                 18 hrs 49 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    20 hrs 53 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 19 mins (82.98%)
+⏱ AI Coding Time: 12 hrs 41 mins (67.43%)
 
-✍️ 0 lines written by AI, 2,481 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 4,063 lines written by hand (0.0% AI-written)
 
-🔤 20,950 Input Tokens, 2,544 Output Tokens
+🔤 2,336 Input Tokens, 1,128 Output Tokens
 
 💵 $0.02 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 267 AI Prompts
+🧠 7 AI Sessions, 201 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,134 characters per prompt
-🔁 Iterative Prompter — average 30 prompts per session
+📄 Detailed Prompter — average 1,017 characters per prompt
+🔁 Iterative Prompter — average 29 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -212,7 +208,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 20:23:32 UTC
+ Last Updated on 27/10/2026 00:18:26 UTC
 <!--END_SECTION:waka-->
 
 ---
