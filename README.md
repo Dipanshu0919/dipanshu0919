@@ -157,29 +157,29 @@ Sunday                   154 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               5 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   30.94 % 
-HTML                     4 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-Python                   3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-CSS                      2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Markdown                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+JavaScript               6 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   32.07 % 
+HTML                     4 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
+Python                   3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+CSS                      2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Markdown                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 43 mins      █████████████████░░░░░░░░   67.54 % 
-Antigravity Desktop      6 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   32.46 % 
+VS Code                  13 hrs 23 mins      █████████████████░░░░░░░░   68.66 % 
+Antigravity Desktop      6 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.34 % 
 
 🐱‍💻 Projects: 
-ShellMan                 18 hrs 49 mins      █████████████████████████   100.00 % 
+ShellMan                 19 hrs 30 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    18 hrs 49 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 41 mins (67.43%)
+⏱ AI Coding Time: 12 hrs 41 mins (65.11%)
 
-✍️ 0 lines written by AI, 4,063 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 4,414 lines written by hand (0.0% AI-written)
 
 🔤 2,336 Input Tokens, 1,128 Output Tokens
 
@@ -208,7 +208,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 22:00:54 UTC
+ Last Updated on 28/10/2026 05:01:57 UTC
 <!--END_SECTION:waka-->
 
 ---
